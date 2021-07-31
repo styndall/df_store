@@ -1,5 +1,5 @@
 # df_store
-This is a quick way to store and retrieve dataframes as files while preserving the columns dtypes.
+This is a quick way to store and retrieve dataframes as files while preserving the column dtypes.
 
 Example usage:
 ```
